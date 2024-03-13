@@ -47,6 +47,8 @@
 
 ## Other
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" alt="GitHub" width="30px" height="30px"></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/2127px-GitLab_icon.svg.png" alt="GitLab" width="30px" height="30px"></a>
 <a href="https://www.android.com/" title="Android"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/511px-Android_robot.svg.png?20180121030125" alt="Android" width="30px" height="30px"></a>
 <a href="https://www.arduino.cc/" title="Arduino"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/512px-Arduino_IDE_logo.svg.png?20230510165732" alt="Arduino" width="30px" height="30px"></a>
 <a href="https://os.mbed.com/mbed-os/" title="Mbed OS"><img src="https://avatars.githubusercontent.com/u/8916057?v=4" alt="Mbed OS" width="30px" height="30px"></a>

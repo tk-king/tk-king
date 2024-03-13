@@ -42,9 +42,14 @@
 <a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="30px" height="30px"></a>
 <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.svg" alt="TensorFlow" width="30px" height="30px"></a>
 <a href="https://pytorch.org/" title="PyTorch"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611" alt="PyTorch" width="26px" height="30px"></a>
+<a href="https://onnx.ai/" title="ONNX"><img src="https://artwork.lfaidata.foundation/projects/onnx/icon/color/onnx-icon-color.png" alt="ONNX" width="30px" height="30px"></a>
 
 
 ## Other
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>
 <a href="https://www.android.com/" title="Android"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/511px-Android_robot.svg.png?20180121030125" alt="Android" width="30px" height="30px"></a>
+<a href="https://www.arduino.cc/" title="Arduino"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/512px-Arduino_IDE_logo.svg.png?20230510165732" alt="Arduino" width="30px" height="30px"></a>
+<a href="https://os.mbed.com/mbed-os/" title="Mbed OS"><img src="https://avatars.githubusercontent.com/u/8916057?v=4" alt="Mbed OS" width="30px" height="30px"></a>
+<a href="https://kernel.org/" title="Linux"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/512px-Tux.svg.png" alt="Mbed OS" width="27px" height="30px"></a>
+
 

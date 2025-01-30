@@ -7,18 +7,14 @@
 #### A passionate developer from Karlsruhe, Germany trying to bring together machine learning, microcontrollers and web technologies.
 
 
-- 🔭 I’m currently working on edge machine learning problem
-- 🌱 I’m currently learning biomedical sensing with wearables
+- 🔭 I’m currently optimizing stuff in the wearable computing space
 - 💼 You can find me [@teco-kit](https://github.com/teco-kit)
 
 
 ## Programming
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="30px" height="30px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="30px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="30px" height="30px"></a>
 <a href="https://dart.dev/" titel="Dart"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" alt="Dart" width="30px" height="30px"></a>
@@ -29,12 +25,8 @@
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="30px" height="30px"></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="30px" height="30px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>
-<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="30px" height="30px"></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="30px" height="30px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="30px" height="30px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="30px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="30px" height="30px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="30px" height="30px"></a>
 
 ## ML
@@ -47,11 +39,8 @@
 
 ## Other
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>
-<a href="https://github.com/" title="GitHub"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" alt="GitHub" width="30px" height="30px"></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/2127px-GitLab_icon.svg.png" alt="GitLab" width="30px" height="30px"></a>
 <a href="https://www.android.com/" title="Android"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/511px-Android_robot.svg.png?20180121030125" alt="Android" width="30px" height="30px"></a>
 <a href="https://www.arduino.cc/" title="Arduino"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/512px-Arduino_IDE_logo.svg.png?20230510165732" alt="Arduino" width="30px" height="30px"></a>
-<a href="https://os.mbed.com/mbed-os/" title="Mbed OS"><img src="https://avatars.githubusercontent.com/u/8916057?v=4" alt="Mbed OS" width="30px" height="30px"></a>
 <a href="https://kernel.org/" title="Linux"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/512px-Tux.svg.png" alt="Mbed OS" width="27px" height="30px"></a>
 
 
